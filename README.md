@@ -5,7 +5,7 @@ objective is to predict the price of the mobile phone for given specifications s
 competition to the already available market players and also to convince customers that they are paying the best price for the given
 specifications.
 
-Markup: * Data collected by scraping the existing mobile phone models from the website digit.in.
+* Data collected by scraping the existing mobile phone models from the website digit.in.
   
 * Data cleaning stage involved removing text attached to numerical values, reducing the cardinality available in the categorical columns, and converting numerical values measured in different units to standard units.
   
